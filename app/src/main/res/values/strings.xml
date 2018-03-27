@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Animal sound quiz</string>
+    <string name="guess_the_animal">Guess the animal</string>
+</resources>
